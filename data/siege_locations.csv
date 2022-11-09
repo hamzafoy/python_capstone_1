@@ -1,0 +1,856 @@
+,names,years,locs,countries
+1,Edgehill,1642,Edgehill,England
+2,Turnham Green,1642,London,England
+3,Second Breitenfeld,1642,Leipzig,Germany
+4,Lerida,1642,Lerida,Spain
+5,Bristol,1643,Bristol,England
+6,First Newbury,1643,Newbury,England
+7,Lansdown,1643,Bath,England
+8,RoundwayDown,1643,Devizes,England
+9,Stratton,1643,Bude,England
+10,Rocroi,1643,Rocroi,France
+11,Bolton,1644,Bolton,England
+12,Cheriton,1644,Cheriton,England
+14,Cropready Bridge,1644,Cropready,England
+15,Lostwithiel,1644,Lostwithiel,England
+16,Marston Moore,1644,Long Marston,England
+17,Second Newbury,1644,Newbury,England
+18,York,1644,York,England
+19,Freiburg,1644,Freiburg im Breisgau,Germany
+20,Tippermuir,1644,Perth,Scotland
+21,Montijo,1644,Montijo,Spain
+22,Jankau,1645,Jankov ,Czechia
+23,Langport,1645,Langport,England
+24,Naseby,1645,Naseby,England
+25,Allerheim,1645,Allerheim,Germany
+26,Mergentheim,1645,Bad Mergentheim,Germany
+27,Alford,1645,Alford,Scotland
+28,Auldearn,1645,Auldearn,Scotland
+29,Inverlochy,1645,Fort William,Scotland
+30,Kilsyth,1645,Kilsyth,Scotland
+31,Philiphaugh,1645,Selkirk,Scotland
+32,London,1010,London ,England
+33,London,1013,London ,England
+34,Struma,1014,Klyuch ,Bulgaria
+35,Clontarf,1014,Dublin ,Ireland
+36,London,1016,London ,England
+37,Otford,1016,Otford ,England
+38,Pontlevoy,1016,Pontlevoy ,France
+39,Cannae,1018,Canne Della Battaglia ,Italy
+40,Montboyau,1026,Saint-Cyr-sur-Loire ,France
+41,Stiklestad,1030,Stiklestad ,Norway
+42,Monte Maggio,1041,Canne della Battaglia ,Italy
+43,Venosa,1041,Venosa ,Italy
+44,Brionne,1047-50,Brionne ,France
+45,Val-es-Dunes,1047,Caen ,France
+46,Domfront,1051-2,Domfront ,France
+47,Arques-la-Bataille,1052-3,Arques-la-Bataille ,France
+48,Saint-Aubin-sur-Scie,1053,Saint-Aubin-sur-Scie ,France
+50,Civitate,1053,San Paolo di Civitate ,Italy
+51,Mortemer,1054,Mortemer ,France
+52,Cleobury,1056,Cleobury ,England
+53,Lumphanan,1057,Lumphanan ,England
+54,Varaville,1057,Varaville ,France
+55,Reggio,1060,Reggio di Calabria ,Italy
+56,Second Milan,1512,Milan,Italy
+57,Flodden Edge,1513,Branxton,England
+58,Battle of the Spurs,1513,Enguinegatte,France
+59,Therouanne,1513,Therouanne,France
+60,First Novara,1513,Novara,Italy
+61,Marignano,1515,Melegnano,Italy
+63,Bath of Blood,1520,Stockholm ,Sweden
+64,"Bogesand,",1520,Ulricehamm,Sweden
+65,Siege of Stockholm,1520,Stockholm,Sweden
+66,Rhodes,1521,Rhodes Island,Greece
+67,Third Milan,1521,Milan,Italy
+68,Belgrade,1521,Belgrade,Serbia
+69,Villalar Communeros,1521,Villalar de Los Comuneros,Spain
+71,Bicocea,1522,Bicocea,Italy
+72,Landstuhl,1523,Landstuhl,Germany
+73,Second Novara,1523,Novara,Italy
+74,Palma,1523,Palma de Mallorca,Spain
+75,Danish Surrender,1523,Stockholm,Sweden
+76,Marseille,1524,Marseille,France
+77,Sesia,1524,Novara,Italy
+78,Frankenhousen,1525,Bad Frankenhausen,Germany
+79,Weinsberg,1525,Weinsberg,Germany
+80,Pavia,1525,Pavia ,Italy
+81,Pavia,1525,Pavia ,Italy
+82,Buda,1526,Budapest,Hungary
+83,Mohacs,1526,Mohacs,Hungary
+84,Peterwardein,1526,Peterwardein,Serbia
+85,Rome,1527,Rome,Italy
+86,Genoa,1528,Genoa,Italy
+87,Landriano,1528,Landriano,Italy
+88,Second Naples,1528,Naples,Italy
+89,Vienna,1529,Vienna,Austria
+90,Buda,1529-31,Budapest,Hungary
+91,Florence,1530,Florence,Italy
+92,Gavinana,1530,San Marcello Pistoiese,Italy
+93,Guns,1531,Készeg,Hungary
+94,Coron,"1532-3,",Koroni,Greece
+95,Essek,1537,Osijek,Croatia
+96,Valpo,1837,Valpovo,Croatia
+97,Corfu,1537,Corfu Island,Greece
+98,Taranto,1537,Taranto,Italy
+99,Castel Nuovo,1539,Naples,Italy
+100,Solway Moss,1542,Solway Moss (Gretna),England
+101,Boulogne,1544,Boulogne-sur-Mer,France
+102,Ceresole,1544,Ceresole Alba,Italy
+103,Ancrum Moor,1544,Jedburgh,Scotland
+104,Kinlochlochy,1544,Laggan,Scotland
+105,Muhlberg,1547,Muhlberg,Germany
+106,Pinkie Cleugh,1547,Musselborough,Scotland
+107,Metz,1552,Metz,France
+108,Bastia,1553,Bastia,France
+109,Sievershausen,1553,Lehrte,Germany
+110,Marciano,1553,Marciano della Chiana,Italy
+111,Siena,1553-4,Siena,Italy
+112,St.Quentin,1887,St.Quentin,France
+113,Calais,1558,Calais,France
+114,Dunkirk,1558,Dunkirk,France
+115,Gravelines,1558,Gravelines,France
+116,Dreux,1562,Dreux,France
+117,Le Havre,1562,Le Havre,France
+118,Rouen,1562,Rouen,France
+119,Vassy,1562,Wassy,France
+120,Orleans,1563,Orleans,France
+121,Malta,1565,Valletta,Malta
+122,Szigeth,1566,Szigetvar,Hungary
+123,Meaux,1567,Meaux,France
+124,Paris,1567,Paris,France
+125,Jodoigne,1568,Jodoigne,Belgium
+126,Jemmingen,1568,Jemmingen,Germany
+127,Heiligerlee,1568,Heiligerlee,Netherlands
+128,Granada,1568,Granada,Spain
+129,Jarnac,1569,Jamac,France
+130,Moncontour,1569,Moncontour,France
+131,Poitiers,1569,Poitiers,France
+132,Roche L'Abeille,1569, La Roche-L'Abeille,France
+133,Ohanez,1569,Ohanes,Spain
+134,Galera,1570,Galera,Spain
+135,Seron,1570,Serén,Spain
+136,Mons,1572,Mons,Belgium
+137,Paris,1572,Paris,France
+138,Brill,1572,Brielle,Netherlands
+139,Haarlem,1572-3,Haarlem,Netherlands
+140,Alkmaar,1573,Alkmaar,Netherlands
+141,Leyden,1574,Leiden,Netherlands
+142,Mookerhyde,1874,Mook en Middelaar,Netherlands
+143,Antwerp,1576,Antwerp,Belgium
+144,Zierikzee,1576,Zierikzee,Netherlands
+145,Gemblours,1578,Bembloux,Netherlands
+146,Maastricht,1879,Maastricht,Netherlands
+147,Alcantara,1580,Alcantara,Portugal
+148,Antwerp,1584-5,Antwerp,Belgium
+149,Zutphen,1585,Zutphen,Netherlands
+150,Coutras,1587,Coutras,France
+151,Sluys,1587,Sluis,Netherlands
+152,Paris,1588,Paris,France
+153,Arques,1589,Arques-la-Bataille,France
+154,Paris,1589,Paris,France
+155,Dreux,1590,Dreux,France
+156,Ivry,1590,Ivry-la-Bataille,France
+157,Paris,1590,Paris,France
+158,Caudebec,1592,Caudebec-en-Caux,France
+159,Paris,1594,Paris,France
+160,Biscuits,1594,Enniskillen,Ireland
+161,Fontaine-Francaise,1595,Fontaine-Francaise,France
+162,Guirgevo,1595,Guirgiu,Romania
+163,Kerestes,1596,Mezékeresztes,Hungary
+164,Tournhour,1597,Turnhout,Belgium
+165,Yellow Ford,1598,Armagh,Ireland
+166,Nieuport,1600,Nieuwpoort,Belgium
+167,Ostend,1601-4,Ostend,Belgium
+168,Kinsale,1601,Kinsale,Ireland
+169,Sablat,1619,Budweis ,Czechia
+170,White Hill,1620,Prague,Czechia
+171,Cecora,1620,Tutora,Romania
+172,Jassy,1620,Iasi,Romania
+173,Fleurus,1622,Fleurus,Belgium
+174,Hochst,1622,Frankfurt am Main,Germany
+175,Wimpfen,1622,Bad Wimpfen,Germany
+176,Stadtlohn,1623,Stadtlohn,Germany
+177,Breda,1624,Breda,Netherlands
+178,Bridge of Dessau,1625,Dessau,Germany
+179,Lutter,1626,Lutter am Barenberge,Germany
+180,Stralsund,1626,Stralsund,Germany
+181,La Rochelle,1627-1628,La Rochelle,France
+182,‘Tezew,1627,Tezew,Poland
+183,‘Wolgast,1628,Wolgast,Germany
+184,Madgeburg,1630-1,Magdeburg,Germany
+185,Breitenfeld,1631,Leipzig,Germany
+186,Frankfurt-on-the-Oder,1631,Frankfurt an der Oder,Germany
+188,Werben,1631,Werben (Elbe),Germany
+189,Lutzen,1632,Lutzen,Germany
+190,Nuremburg,1632,Nuremburg,Germany
+191,River Lech,1632,Rain,Germany
+192,Nordlingen,1634,Nordlingen,Germany
+193,Wittstock,1636,Wittstock,Germany
+194,‘Tornavento,1636,Oleggio,Italy
+195,Croquant,1637,La Sauvetat,France
+196,Leucate,1637,Leucate,France
+197,Breda,1637,Breda,Netherlands
+198,Breisach,1638,Breisach,Germany
+199,Fuenterrabia,1638,Hondarribia (Guiptizcoa),Spain
+201,Rheinfelden,1638,Rheinfelden,Switzerland
+202,Nu Pied,1639,Avranches,France
+203,Bridge of Dee,1639,Aberdeen,Scotland
+204,Durham,1640,Durham,England
+205,Newburn,1640,Newburn,England
+206,Newcastle,1640,Newcastle Upon Tyne,England
+207,Casale,1640,Casale Monferrato,Italy
+208,Benburb,1646,Benburb,Treland
+209,Dunganhill,1647,Summezhill,Ireland
+210,Masaniello,1647-8,Naples,Italy
+211,Lerida,1647,Lerida,Spain
+212,Colchester,1648,Colchester,England
+213,Prembroke Castle,1648,Pembroke,England
+214,Preston,1648,Preston,England
+215,Lens,1648,Lens,France
+216,Zusmarshausen,1648,Zusmarshausen,Germany
+217,Fronde de Parlement,1649,Charenton-le-Pont,France
+219,Fronde de Parlement,1649,Paris,France
+221,Drogheda,1649,Drogheda,Ireland
+222,Rathmines,1649,Dublin,Ireland
+223,Wexford,1649,Wexford,Ireland
+224,Clonmen,1650,Clonmel,Ireland
+225,Carbiesdale,1650,Ardgay,Scotland
+226,Dunbar Ridges,1650,Dunbar,Scotland
+227,Worcester,1651,Worcester,England
+228,Dundee,1651,Dundee,Scotland
+229,Inverkeithing,1651,Inverkeithing,Scotland
+230,Perth,1651,Perth,Scotland
+231,Frond of the Princes,1652,Paris,France
+233,Dunottar Castle,1652,Stonehaven,Scotland
+234,Arras,1654,Arras,France
+235,Siege of Warsaw,1655,Warsaw,Poland
+236,Valenciennes,1656,Valenciennes,France
+237,Battle of Warsaw,1656,Warsaw,Poland
+238,Sandomierz,1656,"Sandomierz,",Poland
+239,First Villmergen,1656,Villmergen,Switzerland
+240,Fredericksodde,1657,Fredericia,Denmark
+241,Copenhagen,1658,Copenhagen,Denmark
+242,TheDunes,1658,Dunkirk,France
+243,Nyborg,1659,Nyborg,Denmark
+244,Ameixal,1663,Estremoz,Portugal
+245,Montes Claros,1663,Vila Vicosa,Portugal
+246,Neuhausel,1663,Neuhausel Slovak,Rep
+247,St.Gotthard,1664,Szentgotthard,Hungary
+248,Villaviciosa,1665,Vila Vicosa,Portugal
+249,Lille,1667,Lille,France
+250,Maastricht,1673,Maastricht,Germany
+251,Senetfe,1674,Seneffe,Belgium
+252,Enzheim,1674,Entzheim,France
+253,Sinsheim,1674,Sinsheim,Germany
+254,Turkheim,1674,Turkheim,Germany
+255,Torrebens,1675,Rennes,France
+256,Fehrbellin,1675,Febrbellin,Germany
+257,Sasbach,1675,Sasbach (Ortenau),Germany
+258,Philipsburg,1676,Philipsburg,Germany
+259,Messina,1676,Messina,Italy
+260,Lund,1676,Lund,Sweden
+261,Landskronz,1677,Landskrona,Sweden
+262,St.Denis,1678,Mans,Belgium
+263,Bothwell Bridge,1679,Hamilton,Scotland
+264,Drumelog,1679,Darvel,Scotland
+265,Khalenberg,1683,Vienna,Austria
+266,Vienna,1683,Vienna,Austria
+267,Parkany,1683,Stérovo Slovak,Rep
+268,First Buda,1684,Budapest,Hungary
+269,Luxembourg,1684,Luxembourg City,"Luxembourg,"
+270,Norton St Phillips,1685,Norton St. Phillip,England
+271,Sedgemoor,1685,Westonzoyland ,England
+272,Second Buda,1686,Budapest,Hungary
+273,Athens,1687,Athens,Greece
+274,Harkany,1687,Harkany,Hungary
+275,First Belgrade,1688,Belgrade,Serbia
+276,Walcourt,1689,Walcourt,Belgium
+277,Enniskillen,1689,Enniskillen ,Ireland
+278,Londonderry,1689,Londonderry ,Ireland
+279,Newtown Butler,1689,Clones,Ireland
+280,Killiecrankie,1689,Killiecrankie,Scotland
+281,Fleurus,1690,Fleurus,Belgium
+282,River Boyne,1690,Drogheda,Ireland
+283,Strorm of Limerick,1690,Limerck ,Ireland
+284,Staffarda,1690,Revello,Italy
+285,Zernyest,1690,Zarnesti ,Romania
+286,Cromdale,1690,Grantown-on-Spey ,Scotland
+287,Second Belgrade,1690,Belgrade,Serbia
+288,Hal,1691,Halle,Belgium
+289,Leuze,1691,Leuze-en-Hainaut,Belgium
+290,Mons,1691,Mons ,Belgium
+291,Aughrim,1691,Aughrim ,Ireland
+292,Fall of Limerick,1691,Limerick,Ireland
+293,Szalankemen,1691,Stari Slankamen ,Serbia
+294,Ripoli,1691,Ripoll ,Spain
+295,First Namur,1692,Namur,Belgium
+296,Steenkerke,1692,Veurne ,Belgium
+297,Neerwinden,1693,Neerwinden (Tienen) ,Belgium
+298,Marsaglia,1693,Marsaglia,Italy
+299,Third Belgrade,1693,Belgrade,Serbia
+300,Chios,1694-5,Chios Island,Greece
+301,Second Namur,1695,Namur,Belgium
+302,Lippa,1695,Lipova,Romania
+303,Zenta,1697,Senta,Serbia
+304,Barcelona,1697,Barcelona,Spain
+305,Chiari,1701,Chiari,Italy
+306,Cremona,1701-2,Cremona,Italy
+307,Liege,1702,Liége,Belgium
+308,Cevennes,1702,Le Pont-de-Montvert ,France
+309,First Landau,1702,Landau In Der Platz,Germany
+310,Friedlingen,1702,Freiburg im Breisgau,Germany
+311,Kaiserswerth,1702,Diisseldorf,Germany
+312,Luzzara,1702,Luzzara,Italy
+313,Klissow,1702,Kliszow,Poland
+314,Warsaw,1702,Warsaw,Poland
+315,Bonn,1703,Bonn,Germany
+316,Hochstadt,1703,Hochstadt,Germany
+317,Second Landau,1703,Landau In Der Platz,Germany
+318,Speyerbach,1703,Speyer,Germany
+319,Bergen Op Zoom,1703,Bergen Op Zoom,Netherlands
+320,Pultusk,1703,Pultusk,Poland
+321,Blenheim,1704,Blindheim,Germany
+322,Schellenberg Hill,1704,Donauwerth,Germany
+323,Third Landau,1704,Landau in der Pfaltz,Germany
+324,First Rock of Gibraltar,1704,Rock of Gibraltar,Gibraltar
+326,Second Gibraltar,1704-1705,Gibraltar City,Gibraltar
+327,Punitz,1704,Punitz,Poland
+328,"Thorn,",1704,Torun,Poland
+329,Cassano,1705,Cassano d’Adda,Italy
+330,First Barcelona,1705-1706,Barcelona,Spain
+331,Messina,1061,Messina,Italy
+332,Mayenne,1063,Domfront,France
+333,Cerami,1063,Cerami,Italy
+334,Dinan,1064,Dinan,France
+335,Dol,1064,Dol-de-Bretagne,France
+336,Gate Fulford,1066,York,England
+337,Hastings,1066,Hastings,England
+338,Stamford Bridge,1066,Stamford Bridge,England
+339,Exeter,1068,Exeter,England
+340,Bari,1068-71,Bari,Italy
+341,York,1069,York,England
+342,Ely,1071,Isle of Ely,England
+343,Cassel,1071,Cassel,France
+344,Hohenburg,1075,Bad Langensalza,Germany
+345,Skyhill,1079,Ramsey,England
+346,Flarchheim,1080,Flarchheim,Germany
+347,Hohen-Molsen,1080,Hohenmélsen,Germany
+348,Dyrrhachium,1081,Durres,Albania
+349,Dytthachium,1081-2,Durres,Albania
+350,Larissa,1083,Larissa,Greece
+351,Larissa,1083,Larissa,Greece
+352,Toledo,1084-5,Toledo,Spain
+353,Zalaka,1086,Badajoz,Spain
+354,Mount Levunium,1091,Pazardzhik,Bulgaria
+355,Cuarte,1094,Valencia,Spain
+356,Huseca,1094,Huesca,Spain
+357,Bamburgh,1095,Bamburgh,England
+358,Huesca,1096,Huesca,Spain
+359,Tinchebrai,1105-6,Tinchebrai,France
+360,Candé,1106,Cande,France
+361,Menin,1706,Menen,Belgium
+362,Ramillies,1706,Ramillies,Belgium
+363,Battle of Turin,1706,Turin ,Italy
+364,Calcinato,1706,Calcinato,Italy
+365,Siege of Turin,1706,Turin ,Italy
+366,Fraustadt,1706,Wschowa,Poland
+367,Alicante,1706,Alicante,Spain
+368,Cartagena,1706,Cartagena,Spain
+369,Madrid,1706,Mardid,Spain
+370,Mallorca,1706,Palma de Mallorca,Spain
+372,Toulon,1707,Toulon,France
+373,Almanza,1707,Almansa (Albacete),Spain
+374,Denia,1707,Denia,Spain
+375,Ghent,1708-9,Ghent,Belgium
+376,Oudenarde,1708,Oudenaarde,Belgium
+377,Wynendael,1708,Wijnendale,Belgium
+378,Lille,1708,Lille,France
+379,Kolesd,1708,Kélesd,Hungary
+380,Trencin,1708,Trengianska Turna Slovak,Rep
+381,Esaulov,1708,Eslév,Sweden
+382,Mons,1709,Mons,Belgium
+383,Tournai,1709,Tournai,Belgium
+384,Malplaquet,1709,Taisniéres-sur-Hon,France
+385,Aire,1710,Aire-sur-la-Lys,France
+386,Bethune,1710,Béthune,France
+387,First Douai,1710,Douai,France
+388,Brihuega,1710,Brihuega,Spain
+389,Saragossa,1710,Zaragoza,Spain
+390,Villaviciosa,1710,Villaviciosa de Tajufia,Spain
+391,Helsingborg,1710,Helsingborg,Sweden
+392,First Bouchain,1711,Bouchain,France
+393,Pruth River,1711,Stanilesti,Romania
+394,Denain,1712,Denain,France
+395,Le Quesnoy,1712,Le Quesnoy,France
+396,Second Bouchain,1712,Bouchain,France
+397,Second Douai,1712,Douai,France
+398,Gadebusch,1712,Gadebusch,Germany
+399,Second Villmergen,1712,Villmergen,Switzerland
+400,Helsingfors,1713,Helsinki,Finland
+401,Fourth Landau,1713,Landau in der Pfaltz,Germany
+402,Freiburg,1713,Freiburg im Breisgau,Germany
+403,Speyer,1713,Speyer,Germany
+404,Tonning,1713,Tonning,Germany
+405,Napue,174,Isokyré,Finland
+406,Second Barcelona,1714,Barcelona,Spain
+407,"Preston,",1715,Preston,England
+408,Rugen,1715,Bergen auf Rigen,Germany
+409,Sheriffmuir,1715,Sherrifmuir,Scotland
+410,Corfu,1716,Corfu Island,Greece
+411,Tredrikshald,1716,Halden City,Norway
+412,Temesvar,1716,Timisoara,Romania
+413,Peterwardein,1716,Peterwardein,Serbia
+414,Belgrade,1717,Belgrade,Serbia
+415,First Messina,1718,Messina,Italy
+416,Fredrikshald,1718,Halden City,Norway
+417,Francavilla,1719,Francavilla di Sicilia,Italy
+418,Second Messina,1719,Messina,Italy
+419,Glenshiel,1719,Glen Shiel,Scotland
+420,Pontevedra,1719,Pontevedra,Spain
+421,San Sebastian,1719,San Sebastian,Spain
+422,Vigo,1719,Vigo,Spain
+423,Ceuta,1720-7,Ceuta,Spain
+424,Gibraltar,1727,Gibraltar City,Gibraltar
+425,Philipsburg,1734,Philipsburg,Germany
+426,Bitonto,1734,Bitonto,Italy
+427,Gustalla,1734,Guastalla,Italy
+428,Parma,1734,Parma,Italy
+429,Danzig,1734,Gdarisk,Poland
+430,Jassy,1739,lagi,Romania
+431,Belgrade,1739,Belgrade,Serbia
+432,Groszka,1739,Belgrade,Serbia
+433,Willmanstrand,1741,Lappeenranta,Finland
+434,Mollwitz,1741,Matujowice,Poland
+435,Chotusitz,1742,Chotusice ,Czechia
+436,First Prague,1742-3,Prague,Czechia
+437,Helsinki,1742,Helsinki,Finland
+438,Dettingen,1743,Karlsteinam Main,Germany
+439,Compo Santo (Madena),1743,Camposanto (Madena),Italy
+441,Second Prague,1744,Prague,Czechia
+442,Cuneo,1744,Cuneo,Italy
+443,MadonnadelOlmo,1744,Cuneo,Italy
+444,Velletri,1744,Velletri,Italy
+445,Fontenoy,1745,Tournai,Belgium
+446,Siege of Tournai,1745,Tournai,Belgium
+447,Sohr,1745,Hajnice ,Czechia
+448,Carlisle,1745,Carlisle,England
+449,Derby,1745,Derby,England
+450,Manchester,1745,Manchester,England
+451,Amberg,1745,Amberg,Germany
+452,Gorlitz,1745,Gérlitz,Germany
+453,Gross-Hennersdorf,1745,Hermhut,Germany
+454,Kesselsdorf,1745,Kesselsdorf,Germany
+455,Bassignana,1745,Bassignana,Italy
+456,Hohentreidberg,1745,Strzegom,Poland
+457,Edinburgh,1745,Edinburgh,Scotland
+458,Prestonpans,1745,Prestonpans,Scotland
+459,Stirling,1745,Stirling,Scotland
+460,Roucoux,1746,Liége,Belgium
+461,Battle of Piacenza,1746,Piacenza ,Italy
+462,First Siege of Genoa,1746,Genoa ,Italy
+463,Revolt of Genoa,1746,Genoa ,Italy
+464,Rottofreddo,1746,Rottofeno,Italy
+465,Siege of Piacenza,1746,Piacenza ,Italy
+466,Culloden Moor,1746,Inverness,Scotland
+467,Lauffeld,1747,Riemst,Belgium
+468,Colle dell’Assietta,1747,Testa dell’Assietta,Italy
+469,Second Siege of Genoa,1747,Genoa ,Italy
+471,Bergen Op Zoom,1747,Bergen Op Zoom,Netherlands
+472,Maastricht,1748,Maastricht,Netherlands
+473,Lobositz,1756,Lovosice ,Czechia
+474,First Dresden,1756,Dresden,Germany
+475,Pima,1756,Pirna,Germany
+476,Battle of Prague,1757,Prague,Czechia
+477,Kolin,1757,Kolin ,Czechia
+478,Siege of Prague,1757,Prague,Czechia
+479,First Berlin,1757,Berlin,Germany
+480,Hastenbeck,1757,Hamelin,Germany
+481,Moys,1757,Gorlitz,Germany
+482,Rossbach,1787,Rossbach,Germany
+483,Zittau,1757,Zittau,Germany
+484,Battle of Breslau,1757,Wrockaw,Poland
+485,First Liegnitz,1756,Legnica,Poland
+486,First Schweidnitz,1757,Swidnica,Poland
+487,Leuthen,1757,Lutynia,Poland
+488,Oppelin,1757,Opole,Poland
+489,Siege of Breslau,1787,Wroclaw,Poland
+490,Altliebe,1758,Domasov nad Bysttic,Czechia
+491,Olmutz,1758,Olomouc ,Czechia
+492,Crefeld,1758,Krefeld,Germany
+493,Hochkizch,1758,Hochkirch,Germany
+494,Elbing,1758,Elblag,Poland
+495,Kustrin,1758,Kostrayn nad Odra,Poland
+496,Second Schweidnitz,1758,Swidnica,Poland
+498,Thorn,1758,Torun,Poland
+499,Zorndort,1758,Sarbinowo,Poland
+500,Bergen,1759,Frankfurt am Main,Germany
+501,Maxen,1759,Maxen,Germany
+502,Minden,1759,Minden,Germany
+503,Second Dresden,1759,Dresden,Germany
+504,Kunersdorf,1759,Kunowice,Poland
+505,Zullichau (Kay),1759,Kije,Poland
+506,Emsdorf,1760,Kirchhain,Germany
+507,Kloster-Kamp,1760,Kamp-Lintfort,Germany
+508,Second Berlin,1760,Berlin,Germany
+509,Third Dresden,1760,Dresden,Germany
+510,Torgau,1760,Torgau,Germany
+511,Warburg,1760,Warburg,Germany
+512,Wessel,1760,Wesel,Germany
+513,Kolberg,1760,Kolobrzeg,Poland
+514,Landshut,1760,Kamienna Géra,Poland
+515,Second Liegnitz,1760,Legnica,Poland
+516,Vellinghausen,1761,Welver,Germany
+517,Reichenbach,1762,Liberec ,Czechia
+518,Cassel,1762,Kassel,Germany
+519,Lutterberg,1762,Staufenberg,Germany
+520,Wilhelmsthal,1762,Calden,Germany
+521,Burkersdorf,1762,Burkatow,Poland
+522,Freiburg,1762,Swiebodzice,Poland
+523,Third Schweidnitz,1762,Swidnica,Poland
+524,Borgo,1768,Borgo,France
+525,Cracow,1768,Krakow,Poland
+526,Ponte Nuovo,1769,Castello-di-Rostino,France
+527,Bucharest,1769,Bucharest,Romania
+528,Jassy,1769,lagi,Romania
+529,Landskron,1771,Langkroun Czech,Rep
+530,Kozludji,1774,Kozloduy(Shumen) ,Bulgaria
+531,Silistra,1774,Silistra,Bulgaria
+532,Varna,1774,Varna,Bulgaria
+533,Nachod,1778,Nachod ,Czechia
+534,Westminster,1780,London,England
+535,Campeni,1784,Caémpeni,Romania
+536,Jassy,1788,lagi,Romania
+537,Karansebes,1788,Caransebes,Romania
+538,Turnhout,1789,Turnhout,Belgium
+539,Bastille,1789,Paris,France
+540,Foscani,1789,Focgani,Romania
+541,Martinesti,1789,Ramnicu Sarat,Romania
+542,Mehadia,1789,Mehadia,Romania
+543,Belgrade,1789,Belgrade,Serbia
+544,Champs de Mars,1791,Paris,France
+545,Brussels,1792,Brussels,Belgium
+546,Jemappes,1792,Jemappes,Belgium
+547,Tuileries Palace,1792,Paris,France
+548,Valmy,1792,Valmy,France
+549,Menin,1793,Menen,Belgium
+550,Neerwinden,1793,Neerwinden,Belgium
+551,Chantonnay,1793,Chantonnay,France
+552,Chatillon-sur-Sevre,1793,Mauléon,France
+553,Cholet,1793,Cholet,France
+554,Entrammes,1793,Entrammes,France
+555,First Angers,1793,Angers,France
+556,Fontenay-le-Comte,1793,Fontenay-le-Comte,France
+557,Froschwiller,1793,Froeschwiller,France
+558,Geisberg,1793,Wissembourg,France
+559,Granville,1793,Granville,France
+560,Hondschoote,1793,Hondschoote,France
+561,Le Mans,1793,Le Mans,France
+562,Maubeuge,1793,Maubeuge,France
+563,Nantes,1793,Nantes,France
+564,Saumur,1793,Saumur,France
+565,Savenay,1793,Savenay,France
+566,Second Angers,1793,Angers,France
+567,Valenciennes (Famacs),1793,Valenciennes (Famacs),France
+569,Wattignies,1793,Wattignies-la-Victoires,France
+571,Kaiserslautern,1793,Kaiserslautern,Germany
+572,Charleroi,1794,Charleroi,Belgium
+573,Erquelinnes,1794,Erquelinnes,Belgium
+574,Fleurus,1794,Fleurus,Belgium
+575,Tournai,1794,Tournai,Belgium
+576,Lambusart,1794,Lambersart,France
+577,Le Cateau (Troisvilles),1794,Beaumont-en-Cambrésis (Troisvilles),France
+579,Saorgio,1794,Saorge,France
+580,Tourcoing,1794,Tourcoing,France
+581,Cracow,1794,Krakow,Poland
+582,Kobilka,1794,Kobilka,Poland
+583,Krupshchitse,1794,Krupezyce,Poland
+584,Maciejowice,1794,Jacigjowice,Poland
+585,Raclawice,1794,Raclawice (Miechéw),Poland
+586,Szcezekrina,1794,Szezekociny,Poland
+587,‘Warsaw,1794,Warsaw,Poland
+588,Campmany,1794,Capmany,Spain
+589,Paris,1795,Paris,France
+590,Quiberon,1795,Quiberon,France
+591,Mainz,1795,Mainz,Germany
+592,Mannheim,1795,Mannheim,Germany
+593,Loano,1795,Loano,Italy
+594,Amberg,1796,Amberg,Germany
+595,Biberach,1796,Biberach,Germany
+596,Malsch,1796,Malsch,Germany
+597,Neresheim,1796,Neresheim,Germany
+598,Uckerath,1796,Bonn,Germany
+599,Wetzlar,1796,Wetzlar,Germany
+600,Wurzberg,1796,Wurzburg,Germany
+601,Arcola,1796,Arcole,Italy
+602,Bassano,1796,Bassano del Grappa_,Italy
+603,Borghetto,1796,Valeggio sul Mincio,Italy
+604,Bridge of Lodi,1796,Lodi,Italy
+605,Caldiero,1796,Caldiero,Italy
+606,Calliana,1796,Calliano,Italy
+607,Castiglione,1796,Castiglione delle Stiviere,Italy
+609,Cembra,1796,Cembra,Italy
+610,Dego,1796,Dego,Italy
+611,Lonato,1796,Lonato del Garda,Italy
+612,Mantua,1796,Mantova,Italy
+613,Milan,1796,Milan,Italy
+614,Montenotte,1796,Cairo Montenotte,Italy
+615,Roveredo,1796,Roveredo,Switzerland
+616,Diersheim,1797,Rheinau,Germany
+617,Lahn (Neuwied),1797,Neuwied,Germany
+618,La Favorita,1797,Mantua,Italy
+619,Malborghetto (Tarvis),1797,Tarvisio (Tarvis),Italy
+621,Rivoli,1797,Rivoli Veronese,Italy
+622,Arklow,1798,Arlkow,Ireland
+623,Ballymore,1798,Ballymore Eustace,Ireland
+624,Ballynamuck,1798,Ballinamuck,Ireland
+625,Castlebar,1798,Castlebar,Ireland
+626,Enniscorthy,1798,Enniscorthy,Ireland
+627,Granard,1798,Granard,Ireland
+628,Killala,1798,Killala,Ireland
+629,Longford,1798,Longford,Ireland
+630,New Ross,1798,New Ross,Ireland
+631,Scullabogue,1798,New Ross,Ireland
+632,Vinegar Hill,1798,Enniscorthy,Ireland
+633,Civita Castellana,1798,Civita Castellana,Italy
+634,Rome,1798,Rome,Italy
+635,Malta,1798,Valletta,Malta
+636,Valletta,1798-1800,Valletta,Malta
+637,Feldkirch,1799,Feldkirch,Austria
+638,Nauders,1799,Nauders,Austria
+639,Ostrach,1799,Ostrach,Germany
+640,Stockach,1799,Stackach,Germany
+641,Capri,1799,Capri (City),Italy
+642,Capua,1799,Capua,Italy
+643,Cassano,1799,Cassano d’Adda,Italy
+644,First Milan,1799,Milan,Italy
+645,Genola,1799,Genola,Italy
+646,Magnano,1799,Castell d’Azzano,Italy
+647,Mantua,1799,Mantova,Italy
+648,Naples,1799,Naples,Italy
+649,Novi,1799,Novi Ligure,Italy
+650,Peschiera,1799,PeschieradelGarda,Italy
+651,Tauffers,1799,Taufers im Munstertal,Italy
+652,Trebbia,1799,Piacenza,Italy
+653,Turin,1799,Turin,Italy
+654,First Bergen,1799,Bergen,Netherlands
+655,Groet Keeten (Texel),1799,Callantsoog (Texel),Netherlands
+657,Kastrikum,1799,Castricum,Netherlands
+658,Second Bergen,1799,Alkmaar,Netherlands
+660,Zyper-Sluis,1799,Camperduin,Netherlands
+661,Chur,1799,Chur,Switzerland
+662,Dottingen (Amsteg),1799,Déttingen,Switzerland
+663,First Zurich,1799,Zurich,Switzerland
+664,Xlontal,1799,Kléntalersee,Switzerland
+665,Maienfeld,1799,Maienéeld,Switzerland
+666,Muettental (Muttenthal),1799,Muotathal (Muttenthal),Switzerland
+668,Second Zurich,1799,Zurich,Switzerland
+669,St Gotthard Pass,1799,Airolo,Switzerland
+670,Tinchebrai,1106,Tinchebrai,France
+671,Sepulveda,111,Sepulveda,Spain
+672,Alencan,1118,Alencon,France
+673,Zaragoza,1118,Zaragoza,Spain
+674,Bremule,1119,Gaillardbois-Cressenville,France
+676,Bourgtherould,1124,Bourgtheroulde-Infreville,France
+678,Brionne,1124,Brionne,France
+679,Standard,1138,Northallerton,England
+680,Wallingford,1139,Wallingford,England
+681,Ourique,1139,Ourique,Portugal
+682,Weinsberg,1140,Weinsberg,Germany
+683,Lincoln,1141,Lincoln,England
+684,Winchester,1141,Winchester,England
+685,Weinsberg,1141,Weinsberg,Germany
+686,Oxford,1142,Oxford,England
+687,Wilton,1142,Wilton,England
+688,Burwell,1144,Burwell,England
+689,Faringdon,1145,Faringdon,England
+690,Lisbon,1147,Lisbon,Portugal
+691,Montreuil-Bellay,1149-51,Montreuil-Bellay,France
+692,Wallingford,"1152-3,",Wallingford,England
+693,Muradel,1157,Ciudad Real,Spain
+694,Milan,1158-62,Milan,Italy
+695,Fornham,1173,Bury St Edmunds,England
+696,Rebellion of Alnwick,1173-4,Alnwick,England
+698,Alessandria,1174-5,Alessandria,Italy
+699,Legnano,1176,Legnano,Italy
+700,Strymon,1185,Komotini,Greece
+701,Thessalonika,1185,Thessalonika,Greece
+702,Gisors,1193,Gisors,France
+703,Freteval,1194,Freteval,France
+704,Alarcos,1195,Ciudad Real,Spain
+705,Gisors,1198,Gisors,France
+706,Chateau-Galliard,1203-4,Les Andelys,France
+707,Toulouse,1211,Toulouse,France
+708,Las Navas de Tolosa,1212,Despenaperros Natural Park,Spain
+710,Muret,1213,Muret,France
+711,Bouvines,1214,Bouvines,France
+712,Rachester,1215,Rochester,England
+713,Lincoln,1217,Lincoln,England
+714,Lincoln,1217,Lincoln,England
+715,Toulouse,1217-8,Toulouse,France
+716,Bedford,1224,Bedford,England
+717,Thessalonika,1224,Thessalonika,Greece
+718,Klokotnitsa,1230,Klokotnitsa,Bulgaria
+719,Cortenuova,1237,Cortenuova,Italy
+720,Brescia,1238,Brescia,Italy
+721,Liegnitz,1241,Legnickie Pole,Poland
+722,Saintes,1242,Saintes,France
+723,Montsegur,1243-4,Montsegur,France
+724,Parma,1247-8,Parma,Italy
+725,Pelagonia,1259,Kastoria,Greece
+726,Largs,1263,Largs,Scotland
+727,Lewes,1264,Lewes,England
+728,Evesham,1265,Evesham,England
+729,Benevento,1266,Benevento,Italy
+730,Tagliacozzo,1268,Tagliacozzo,Italy
+731,Marchfeld,1278,Dirnkrut,Austria
+732,Sicilian Vespers,1282,Palermo,Italy
+733,Dunbar,1296,Dunbar,Scotland
+734,Stirling,1297,Stirling,Scotland
+735,Falkirk,1298,Falkirk,Scotland
+736,Courtrai,1302,Courtrai,Belgium
+737,Mons-en-Pevele,1304,Mons-en-Pevele,France
+738,Methven,1306,Methven,Scotland
+739,Loudoun Hill,1307,Darvel,Scotland
+740,Bannockburn,1314,Bannockburn,Scotland
+741,Morgarten,1315,Lake Aegeri,Switzerland
+742,Faughart,1318,Faughart,England
+743,Myton,1319,Myton-On-Swale,England
+744,Boroughbridge,1322,Boroughbridge,England
+745,Muehldorf,1322,Mihldorf am Inn,Germany
+746,Cassel,1328,Cassel,France
+747,Pelekanas,1329,Pelekanos,Greece
+748,Kustendil,1330,Kustendil,Bulgaria
+749,Dupplin Moor,1332,Scone,Scotland
+750,Halidon Hill,1333,Berwick-Upon-Tweed,England
+751,Rio Salado,1340,Tarifa,Spain
+752,Morlaix,1342,Morlaix,France
+753,Algeciras,1342-4,Algeciras,Spain
+754,Neville’s Cross,1346,Durham,England
+755,Caen,1346,Caen,France
+756,Calais,1346-7,Calais,France
+757,Crecy,1346,Crecy-en-Ponthieu,France
+758,Saint-Pol de Leon,1346,Saint-Pal de Leon,France
+759,Rache-Derrien,1347,Roche-Derrien,France
+760,Roche-Derrien,1347,Roche-Derrien,France
+761,Eppila,1348,Epila,Spain
+762,Mauron,1352,Mauron,France
+763,Breteuil,1356,Breteuil,France
+764,Poitiers,1356,Maupertuis,France
+765,Rennes,1356-7,Rennes,France
+766,Jacquerie,1358,Saint-Leu-d’Esserent,France
+767,Cascina,1364,Cascina,Italy
+768,Najera,1367,Najera,Spain
+769,Cascina,1369,Cascina,Italy
+770,Montiel,1369,Ciudad Real,Spain
+771,Thurie,1370,Albi,France
+772,Chernomen,1371,Ormenio,Greece
+773,La Rochelle,1372,La Rochelle,France
+774,Revolt in Bologna,1375,Bologna,Italy
+775,Revolt in Orvieto,1375,Orvieto,Italy
+776,Revolt in Perugia,1375,Perugia,Italy
+777,Revolt in Viterbo,1375,Viterbo ,Italy
+778,Excomm of Florence,1376,Florence,Italy
+780,Sack of Cesena,1377,Cesena ,Italy
+781,Uprising in Florence,1378,Florence,Italy
+783,Peasant’s Revolt,1381,Blackheath,England
+784,Roosebeke,1382,Courtrai,Belgium
+785,Aljubarrota,1385,Aljubarrota,Portugal
+786,Sempach,1386,Sempach,Switzerland
+787,Radcot Bridge,1387,Radcot,England
+788,Castagnaro,1387,Castagnaro,Italy
+789,Otterburn,1388,Otterburn,England
+790,Kosovo,1389,Pristina,Kosovo
+791,Alessandria,1391,Alessandria,Italy
+792,Rovine,1395,Rovine,Romania
+793,Nicopolis,1396,Nikopol,Bulgaria
+794,Nicopolis,1396,Nikopol,Bulgaria
+795,Homildon Hill,1402,Wooler,England
+796,Pilleth,1402,Knighton,Wales
+797,Shrewsbury,1403,Shrewsbury,England
+798,Bramham Moor,1408,Bramham,England
+799,Tannenberg,1410,Grunwald,Poland
+800,Agincourt,1415,Agincourt,France
+801,Harileur,1415,Harfleur,France
+802,Kalamata,1415,Kalamata,Greece
+803,Valmont,1416,Valmont,France
+804,Caen,1417,Caen,France
+805,Falaise,1418-9,Falaise,France
+806,Rouen,1418-9,Rouen,France
+807,Vysehrad.,1420,Prague ,Czechia
+808,Saaz,1421,Zatec,Czechia
+809,Saaz,1421,Zatec ,Czechia
+810,Bauge,1421,Bauge,France
+811,Meaux,1421-2,Meaux,France
+812,Deutschbrod,1422,Havligktiy Brod ,Czechia
+813,Arbedo,1422,Arbedo-Castione,Switzerland
+814,Cravant,1423,Cravant,France
+815,Verneuil,1424,Verneuil,France
+816,"Aussitz,",1426,Usti nad Labem ,Czechia
+817,Orleans,1428-9,Orleans,France
+818,Herrings,1429,Rouvray-Saint-Denis,France
+819,Patay,1429,Patay,France
+820,Beauvais,1430,Savignies,France
+821,Thessalonika,1430,Thessalonika,Greece
+822,Anghiari,1440,Anghiari,Italy
+823,Varna,1444,Varna,Bulgaria
+824,Varna,1444,Varna,Bulgaria
+825,St Jakob,1444,Munchenstein,Switzerland
+826,Caravaggio,1448,Caravaggio,Italy
+827,Kosovo,1448,Pristina,Kosovo
+828,Rouen,1449,Rouen,France
+829,Cade’s Rebellion,1450,Blackheath,England
+830,Caen,1450,Caen,France
+831,Falaise,1450,Falaise,France
+832,Formigny,1450,Formigny,France
+833,Castillon,1453,Castillon-la-Bataille,France
+834,St.Albans,1455,St.Albans,England
+835,Blore Heath,1459,Market Drayton,England
+836,Northampton,1460,Northampton,England
+837,Wakefield,1460,Sandal Magna,England
+838,Mortimers Cross,1461,Wigmore,England
+839,St.Albans,1461,St.Albans,England
+840,Towton,1461,Towton,England
+841,Hedgeley Moor,1464,Glanton,England
+842,Hexham,1464,Hexham,England
+843,Montihery,1465,Montlhery,France
+844,Liege,1468,Liege,Belgium
+845,Edgecote Moor,1469,Banbury,England
+846,Barnet,1471,High Barnet,England
+847,London,1471,London,England
+848,Twekesbury,1471,Tewkesbury,England
+849,Beauvais,1472,Beauvais,France
+850,Neuss,1474-5,Neuss,France
+851,Toro,1476,Toro,Spain
+852,Grandson,1476,Grandson,Switzerland
+853,Morat,1476,Morat,Switzerland
+854,Nancy,1477,Nancy,France
+855,Battle of Camparmoto,1482,Frosinone,Italy
+857,Sack of Adria,1482,Adria,Italy
+858,Sack of Argenta,1482,Argenta ,Italy
+859,Sack of Comacchio,1482,Comacchio,Italy
+860,Siege of Ferrara,1482-4,Ferrara ,Italy
+861,Siege of Ficarolo,1482,Ficarolo ,Italy
+862,Siege of Rovigo,1482,Rovigo ,Italy
+863,Loja,1482,Loja,Spain
+864,Boswarth,1485,Market Bosworth,England
+865,Stoke,1487,East Stoke,England
+866,Granada,1491-2,Granada,Spain
+867,Fornovo,1495,Fornovo di Taro,Italy
+868,Seminara,1495,Seminara,Italy
+869,Atella,1496,Orta di Atella,Italy
+870,Dornach,1499,Dornach,Switzerland
+871,First Milan,1500,Milan,Italy
+872,Barletta,1502-3,Barletta,Italy
+873,Cerignola,1503,Cerignola,Italy
+874,First Naples,1503,Naples,Italy
+875,Formia,1503,Formia,Italy
+876,Gaeta,1503,Gaeta,Italy
+877,Garigliano River,1503,Gaeta,Italy
+878,Agnadello,1509,Agnadello,Italy
+879,Padua,1509,Padua,Italy
+880,Vicenza,1510,Vicenza,Italy
+881,Battle of Brescia,1511,Brescia ,Italy
+882,Bologna,1511,Bologna,Italy
+883,Sack of Brescia,1511,Brescia ,Italy
+884,Ravenna,1512,Ravenna,Italy
