@@ -8,7 +8,6 @@ from pprint import pprint
 def clean_space(string_data):
     return string_data.rstrip(" ")
 
-path_to_data = "./data/siege_locations.csv" # Path to the siege_locations.csv file
 def generate_siege_data(path_string):
     list_of_sieges = []
     with open(path_string) as siege_data:
@@ -21,14 +20,11 @@ def generate_siege_data(path_string):
                     row[row.index(item)] = clean_space(item)
             list_of_sieges.append(row)
         del list_of_sieges[0]
-    
-    pprint(len(list_of_sieges))
-    pprint(list_of_sieges[853][3].rstrip(" "))
     return list_of_sieges
 
 
 
-pprint(generate_siege_data(path_to_data))
+
 
 #data = pd.read_csv('./data/siege_locations.csv')
 #print(data)

@@ -73,6 +73,7 @@
 
 	1. Read in data from a local `.csv` file. &radic;
     2. Use custom functions to clean or manipulate data. &radic;
+    3. Use at least 5 built-in Python, Pandas, or custom functions to analyze data. &radic;
 
   
   
