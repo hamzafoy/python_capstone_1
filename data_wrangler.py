@@ -1,6 +1,5 @@
 # Importing csv to work with comma-separated value files.
 import csv
-import pandas as pd
 from pprint import pprint
 
 #def clean_multi_year_siege(year_data):
